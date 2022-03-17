@@ -1,0 +1,1 @@
+# Disable-Right-Click-On-page
